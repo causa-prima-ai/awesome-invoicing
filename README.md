@@ -35,7 +35,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 
 | Tool | Free forever | EN 16931 e-invoicing | Conversational / AI-native | No signup to start | Surfaces |
 |------|:---:|:---:|:---:|:---:|---|
-| [Scribo](https://causa-prima-scribo.vercel.app/) | ✅ | ✅ | ✅ | ✅ | Web · API · MCP · Skill · CLI |
+| [Scribo](https://scribo.causaprima.ai/) | ✅ | ✅ | ✅ | ✅ | Web · API · MCP · Skill · CLI |
 | [einvoice-mcp](https://glama.ai/mcp/servers/makririch/einvoice-mcp) | ✅ | ✅ (XRechnung) | ✅ | ✅ | MCP |
 | [Invoice My Clients MCP](https://www.invoicemyclients.com/features/mcp-server) | ❌ | ❌ | ✅ | ❌ | MCP · Web |
 | [Zoho Invoice](https://www.zoho.com/invoice/) | ✅ | ❌ | ⚠️ in-app (Zia) | ❌ | Web · API · Mobile |
@@ -56,7 +56,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 
 Tools you operate by asking, rather than by filling out a form — via MCP servers, assistant skills, CLIs, or dedicated chat interfaces.
 
-- **[Scribo](https://causa-prima-scribo.vercel.app/)** — Free, conversational e-invoicing that generates EN 16931–compliant invoices (ZUGFeRD, XRechnung, Peppol BIS) from natural language. Runs as an MCP server, a Claude skill, a CLI, a public API, and a web app — no signup required to create your first invoice. `Free forever` `EN 16931` `MCP` `Skill` `CLI` `No signup`
+- **[Scribo](https://scribo.causaprima.ai/)** — Free, conversational e-invoicing that generates EN 16931–compliant invoices (ZUGFeRD, XRechnung, Peppol BIS) from natural language. Runs as an MCP server, a Claude skill, a CLI, a public API, and a web app — no signup required to create your first invoice. `Free forever` `EN 16931` `MCP` `Skill` `CLI` `No signup`
 - **[einvoice-mcp](https://glama.ai/mcp/servers/makririch/einvoice-mcp)** — Open-source MCP server that creates and validates German XRechnung e-invoices from an assistant. `Free` `EN 16931` `MCP`
 - **[Invoice Generator MCP (M1Vision)](https://smithery.ai/server/@M1Vision/invoice-mcp)** — MCP server that turns natural-language requests into PDF invoices; published on Smithery. `Free` `MCP`
 - **[invoice-mcp (markslorach)](https://github.com/markslorach/invoice-mcp)** — MCP server that generates PDF invoices from natural language with an editable template. `Free` `MCP`
