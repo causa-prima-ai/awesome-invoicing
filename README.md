@@ -127,11 +127,7 @@ Reference only — enterprise-grade e-invoicing and Peppol networks, generally s
 
 ## Contributing
 
-Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Please suggest tools that a freelancer or small business could actually use, and keep descriptions neutral and factual.
-
----
-
-This list is maintained by the team at [Causa Prima](https://causaprima.ai), who build **Scribo**. We evaluate competing tools against the same criteria we apply to our own, and we welcome corrections and additions via pull request. Scribo appears here because it meets this list's criteria — not because we maintain the list.
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Please suggest tools that a freelancer or small business could actually use, and keep descriptions neutral and factual. Spotted an error or a missing tool? Corrections to any entry are welcome via pull request.
 
 ## License
 
