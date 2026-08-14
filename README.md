@@ -45,6 +45,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [PDF24 e-invoice](https://tools.pdf24.org/de/elektronische-rechnung-erstellen) | ✅ | ✅ | ❌ | ✅ | Web |
 | [kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/) | ✅ | ✅ | ❌ | ✅ | Web |
 | [B2Brouter](https://www.b2brouter.net/) | ✅ (SMB tier) | ✅ | ❌ | ❌ | Web · API |
+| [normbill](https://normbill.com/) | ⚠️ 50 docs/mo | ✅ | ✅ | ⚠️ validator | API · MCP · Web |
 | [Qonto](https://qonto.com/de) | ⚠️ with account | ✅ | ❌ | ❌ | Web · API · Mobile |
 | [Wave](https://www.waveapps.com/) | ✅ | ❌ | ❌ | ❌ | Web · Mobile |
 | [PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice) | ✅ | ❌ | ❌ | ⚠️ PayPal account | Web · API · Mobile |
@@ -58,6 +59,7 @@ Tools you operate by asking, rather than by filling out a form — via MCP serve
 
 - **[Scribo](https://causa-prima-scribo.vercel.app/)** — Free, conversational e-invoicing that generates EN 16931–compliant invoices (ZUGFeRD, XRechnung, Peppol BIS) from natural language. Runs as an MCP server, a Claude skill, a CLI, a public API, and a web app — no signup required to create your first invoice. `Free forever` `EN 16931` `MCP` `Skill` `CLI` `No signup`
 - **[einvoice-mcp](https://glama.ai/mcp/servers/makririch/einvoice-mcp)** — Open-source MCP server that creates and validates German XRechnung e-invoices from an assistant. `Free` `EN 16931` `MCP`
+- **[normbill MCP](https://www.npmjs.com/package/@normbill/mcp)** — MCP server to generate, validate, and parse XRechnung / ZUGFeRD. `Free tier` `EN 16931` `MCP`
 - **[Invoice Generator MCP (M1Vision)](https://smithery.ai/server/@M1Vision/invoice-mcp)** — MCP server that turns natural-language requests into PDF invoices; published on Smithery. `Free` `MCP`
 - **[invoice-mcp (markslorach)](https://github.com/markslorach/invoice-mcp)** — MCP server that generates PDF invoices from natural language with an editable template. `Free` `MCP`
 - **[Invoice My Clients MCP](https://www.invoicemyclients.com/features/mcp-server)** — MCP server bundled with a hosted SaaS; create invoices and log billable hours from an assistant. `Paid` `MCP`
@@ -94,6 +96,7 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[Papierkram](https://www.papierkram.de)** — German accounting with a project- and time-tracking-led invoicing workflow; free tier available. `Free tier` `EN 16931` `🇩🇪`
 - **[B2Brouter](https://www.b2brouter.net/)** — Peppol Access Point with a free portal for SMEs and freelancers, plus a public REST API. `Free tier` `EN 16931` `Peppol` `API`
 - **[Storecove](https://www.storecove.com/)** — Developer-first Peppol Access Point with a RESTful JSON API and a free sandbox. `Paid` `Peppol` `API`
+- **[normbill](https://normbill.com/)** — JSON-to-XRechnung / ZUGFeRD API with official KoSIT validation, a no-signup validator, and an MCP server. `Free tier` `EN 16931` `API` `MCP` `🇩🇪`
 - **[Qonto](https://qonto.com/de)** — EU SMB neobank bundling a compliant e-invoicing module into its business account. `Paid` `EN 16931` `Banking` `API`
 
 ## Freelancer & small-business suites
