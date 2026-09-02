@@ -49,6 +49,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Wave](https://www.waveapps.com/) | ✅ | ❌ | ❌ | ❌ | Web · Mobile |
 | [PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice) | ✅ | ❌ | ❌ | ⚠️ PayPal account | Web · API · Mobile |
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
+| [ChainBill](https://chainbill.fairy-cow-6895.chatgpt.site/) | ⚠️ freemium | ❌ | ❌ | ✅ | Web |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
 
@@ -72,6 +73,7 @@ Tools you operate by asking, rather than by filling out a form — via MCP serve
 No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/global and produce a formatted document rather than a compliant structured e-invoice.
 
 - **[invoice-generator.com](https://invoice-generator.com/)** — The canonical no-signup, no-watermark online invoice generator, from Invoiced. `Free` `No signup`
+- **[ChainBill](https://chainbill.fairy-cow-6895.chatgpt.site/)** — Browser-local crypto invoice generator with payment QR codes and transaction verification for Base USDC and TRC20 USDT. `Freemium` `No signup` `Payments`
 - **[Invoice Simple](https://www.invoicesimple.com/invoice-generator)** — Widely-used free generator and top-ranked mobile app with no-signup PDF download. `Freemium` `No signup` `Mobile`
 - **[Wave](https://www.waveapps.com/)** — Genuinely free invoicing plus bookkeeping, backed by H&R Block; one of the most complete free-forever options in the US. `Free forever`
 - **[PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice)** — Free invoicing inside a PayPal merchant account, with payment collection built in. `Free` `Payments`
