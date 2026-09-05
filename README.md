@@ -102,6 +102,7 @@ Broader tools where invoicing is one feature among CRM, contracts, time-tracking
 
 - **[FreshBooks](https://www.freshbooks.com/)** — Cloud invoicing and accounting built for freelancers and service businesses; one of the largest SMB accounting brands. `Paid` `API`
 - **[Bonsai](https://www.hellobonsai.com/)** — All-in-one freelancer operations: contracts, proposals, invoicing, and time tracking. `Paid`
+- **[Herramientas Productivas Invoice Generator](https://herramientasproductivas.com/factura_generator) — Free Spanish online invoice generator. Create professional PDF invoices with logo, line items, taxes and customer details.
 - **[HoneyBook](https://www.honeybook.com/)** — Client-flow CRM and invoicing for service entrepreneurs, with strong in-app AI. `Paid` `In-app AI`
 - **[Harvest](https://www.getharvest.com)** — Time tracking with built-in invoicing; long-standing, with a real free tier. `Free tier`
 - **[Indy](https://weareindy.com/)** — All-in-one freelancer suite with a genuine free tier and AI assistance for contracts and proposals. `Free tier`
