@@ -51,6 +51,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
+| [Ezfacture](https://www.ezfacture.fr/) | ✅ | ✅ | ❌ | ✅ | Windows |
 
 ## AI-native & conversational
 
@@ -95,6 +96,8 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[B2Brouter](https://www.b2brouter.net/)** — Peppol Access Point with a free portal for SMEs and freelancers, plus a public REST API. `Free tier` `EN 16931` `Peppol` `API`
 - **[Storecove](https://www.storecove.com/)** — Developer-first Peppol Access Point with a RESTful JSON API and a free sandbox. `Paid` `Peppol` `API`
 - **[Qonto](https://qonto.com/de)** — EU SMB neobank bundling a compliant e-invoicing module into its business account. `Paid` `EN 16931` `Banking` `API`
+- **[Ezfacture](https://www.ezfacture.fr/)** — Windows app that lets small businesses / freelancers create standards-compliant electronic invoices (Factur-X format) in Microsoft Excel `Free` `Factur-X` `e-invoicing` `en16931` `Excel` `PDF/A3` `CII`
+
 
 ## Freelancer & small-business suites
 
