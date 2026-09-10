@@ -106,6 +106,7 @@ Broader tools where invoicing is one feature among CRM, contracts, time-tracking
 - **[Harvest](https://www.getharvest.com)** — Time tracking with built-in invoicing; long-standing, with a real free tier. `Free tier`
 - **[Indy](https://weareindy.com/)** — All-in-one freelancer suite with a genuine free tier and AI assistance for contracts and proposals. `Free tier`
 - **[Square Invoices](https://squareup.com/us/en/invoices)** — Free invoicing tied to the Square payments ecosystem. `Free` `Payments`
+- **[Фактурчо (fakturcho.com)](https://www.fakturcho.com)** — Bulgarian-language web app for invoices, proformas, credit/debit notes and quotes under Bulgarian VAT rules (gapless sequential numbering, EUR/BGN dual amounts, Cyrillic PDF); pay-per-document pricing with a small starting credit. `Paid` `🇧🇬`
 - **[Zoho Invoice](https://www.zoho.com/invoice/)** — See [AI-native & conversational](#ai-native--conversational); notable here for its forever-free plan. `Free forever` `API`
 
 ## Enterprise compliance networks
