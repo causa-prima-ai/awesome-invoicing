@@ -103,6 +103,7 @@ Broader tools where invoicing is one feature among CRM, contracts, time-tracking
 - **[FreshBooks](https://www.freshbooks.com/)** — Cloud invoicing and accounting built for freelancers and service businesses; one of the largest SMB accounting brands. `Paid` `API`
 - **[Bonsai](https://www.hellobonsai.com/)** — All-in-one freelancer operations: contracts, proposals, invoicing, and time tracking. `Paid`
 - **[HoneyBook](https://www.honeybook.com/)** — Client-flow CRM and invoicing for service entrepreneurs, with strong in-app AI. `Paid` `In-app AI`
+- **[BusinessOS](https://businessos.biz)** — Offline-first freelancer/small-business suite (invoicing, expenses, cash flow forecasting) that encrypts data client-side before sync; also ships [40 free no-signup calculators](https://businessos.biz/tools/) (VAT, GST, break-even, etc.) alongside the app. `Free during early access` `No signup (tools)` `Offline-first`
 - **[Harvest](https://www.getharvest.com)** — Time tracking with built-in invoicing; long-standing, with a real free tier. `Free tier`
 - **[Indy](https://weareindy.com/)** — All-in-one freelancer suite with a genuine free tier and AI assistance for contracts and proposals. `Free tier`
 - **[Square Invoices](https://squareup.com/us/en/invoices)** — Free invoicing tied to the Square payments ecosystem. `Free` `Payments`
