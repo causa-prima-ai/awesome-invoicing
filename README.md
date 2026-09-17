@@ -83,6 +83,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 
 Tools that produce structured, standards-compliant e-invoices — required for public-sector and, increasingly, B2B invoicing across the EU.
 
+- **[Rubrol](https://github.com/maxcomperatore/rubrol)** — High-performance Typst-based document generation engine and Docker sidecar for compiling compliant Factur-X and ZUGFeRD 2.2 (EN 16931) hybrid PDF/A-3 invoices in under 15ms. `Free tier` `EN 16931` `Self-hosted` `API`
 - **[kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/)** — Free, no-signup XRechnung and ZUGFeRD generator with Leitweg-ID support. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[PDF24 e-invoice generator](https://tools.pdf24.org/de/elektronische-rechnung-erstellen)** — Free no-signup ZUGFeRD and XRechnung generator from the well-known German PDF-tools brand. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[xrechnung-erstellen.com](https://xrechnung-erstellen.com/)** — Free XRechnung generator with assisted data extraction. `Free` `EN 16931` `🇩🇪`
