@@ -44,6 +44,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [easybill](https://www.easybill.de) | ✅ (50 docs/mo) | ✅ | ❌ | ❌ | Web · API |
 | [PDF24 e-invoice](https://tools.pdf24.org/de/elektronische-rechnung-erstellen) | ✅ | ✅ | ❌ | ✅ | Web |
 | [kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/) | ✅ | ✅ | ❌ | ✅ | Web |
+| [NormAPI](https://normapi.de/en/validator) | ✅ | ✅ | ❌ | ✅ | Web · API |
 | [B2Brouter](https://www.b2brouter.net/) | ✅ (SMB tier) | ✅ | ❌ | ❌ | Web · API |
 | [Qonto](https://qonto.com/de) | ⚠️ with account | ✅ | ❌ | ❌ | Web · API · Mobile |
 | [Wave](https://www.waveapps.com/) | ✅ | ❌ | ❌ | ❌ | Web · Mobile |
@@ -84,6 +85,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 Tools that produce structured, standards-compliant e-invoices — required for public-sector and, increasingly, B2B invoicing across the EU.
 
 - **[kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/)** — Free, no-signup XRechnung and ZUGFeRD generator with Leitweg-ID support. `Free` `EN 16931` `No signup` `🇩🇪`
+- **[NormAPI](https://normapi.de/en/validator)** — Free, no-signup validator for XRechnung and ZUGFeRD, checked against the official KoSIT rule set; a REST API generates compliant XRechnung and ZUGFeRD from JSON. `Free` `EN 16931` `No signup` `API` `🇩🇪`
 - **[PDF24 e-invoice generator](https://tools.pdf24.org/de/elektronische-rechnung-erstellen)** — Free no-signup ZUGFeRD and XRechnung generator from the well-known German PDF-tools brand. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[xrechnung-erstellen.com](https://xrechnung-erstellen.com/)** — Free XRechnung generator with assisted data extraction. `Free` `EN 16931` `🇩🇪`
 - **[easybill](https://www.easybill.de)** — Cloud invoicing for SMEs and marketplace sellers, with a meaningful free tier (50 documents/month) and full e-invoice support. `Free tier` `EN 16931` `API` `🇩🇪`
