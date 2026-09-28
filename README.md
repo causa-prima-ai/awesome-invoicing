@@ -51,6 +51,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
+| [Billia](https://billia.app) | ✅ | ❌ | ❌ | ✅ | Web |
 
 ## AI-native & conversational
 
@@ -78,6 +79,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
 - **[Wise Invoice Generator](https://wise.com/us/invoice-generator/)** — Free no-signup invoice templates aimed at cross-border freelancers. `Free` `No signup`
 - **[SumUp Invoices](https://www.sumup.com/en-gb/invoices/)** — Mobile-first invoicing inside SumUp's payment ecosystem (formerly Debitoor). `Free` `Payments` `Mobile`
+- **[Billia](https://billia.app)** — Free invoice generator with estimates, quotes, receipts, and proforma invoices; enter an email to receive the PDF instantly, no signup required. `Free` `No signup` `Web`
 
 ## E-invoicing & compliance (EU / Germany)
 
