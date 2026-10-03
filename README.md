@@ -94,6 +94,7 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[Papierkram](https://www.papierkram.de)** — German accounting with a project- and time-tracking-led invoicing workflow; free tier available. `Free tier` `EN 16931` `🇩🇪`
 - **[B2Brouter](https://www.b2brouter.net/)** — Peppol Access Point with a free portal for SMEs and freelancers, plus a public REST API. `Free tier` `EN 16931` `Peppol` `API`
 - **[Storecove](https://www.storecove.com/)** — Developer-first Peppol Access Point with a RESTful JSON API and a free sandbox. `Paid` `Peppol` `API`
+- **[Rubrol](https://github.com/maxcomperatore/rubrol)** — Open-source Typst-native PDF engine and sidecar for sub-millisecond PDF/A-3b rendering, Factur-X XML embedding, and EN 16931 validation. Free Open Source EN 16931 Factur-X API
 - **[Qonto](https://qonto.com/de)** — EU SMB neobank bundling a compliant e-invoicing module into its business account. `Paid` `EN 16931` `Banking` `API`
 
 ## Freelancer & small-business suites
