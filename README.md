@@ -42,6 +42,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [sevDesk](https://sevdesk.de) | ⚠️ generator only | ✅ | ❌ | ⚠️ generator only | Web · API |
 | [Lexware Office](https://www.lexware.de/lexware-office) | ❌ | ✅ | ⚠️ community MCP | ❌ | Web · API |
 | [easybill](https://www.easybill.de) | ✅ (50 docs/mo) | ✅ | ❌ | ❌ | Web · API |
+| [E-Rechnung API](https://e-rechnung-api.fly.dev/) | ⚠️ validator & test tier | ✅ | ❌ | ✅ validator & test key | Web · API · Python · PHP |
 | [PDF24 e-invoice](https://tools.pdf24.org/de/elektronische-rechnung-erstellen) | ✅ | ✅ | ❌ | ✅ | Web |
 | [kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/) | ✅ | ✅ | ❌ | ✅ | Web |
 | [B2Brouter](https://www.b2brouter.net/) | ✅ (SMB tier) | ✅ | ❌ | ❌ | Web · API |
@@ -87,6 +88,7 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[PDF24 e-invoice generator](https://tools.pdf24.org/de/elektronische-rechnung-erstellen)** — Free no-signup ZUGFeRD and XRechnung generator from the well-known German PDF-tools brand. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[xrechnung-erstellen.com](https://xrechnung-erstellen.com/)** — Free XRechnung generator with assisted data extraction. `Free` `EN 16931` `🇩🇪`
 - **[easybill](https://www.easybill.de)** — Cloud invoicing for SMEs and marketplace sellers, with a meaningful free tier (50 documents/month) and full e-invoice support. `Free tier` `EN 16931` `API` `🇩🇪`
+- **[E-Rechnung API](https://e-rechnung-api.fly.dev/)** — REST API and free browser validator for generating and verifying EN 16931 compliant ZUGFeRD 2.2 / Factur-X and XRechnung invoices, with official Python and PHP SDKs. `Free tier` `EN 16931` `No signup` `API` `🇩🇪`
 - **[sevDesk](https://sevdesk.de)** — Popular German cloud invoicing and accounting suite; also runs a free public e-invoice generator. `Paid` `Free generator` `EN 16931` `🇩🇪`
 - **[Lexware Office](https://www.lexware.de/lexware-office)** — Market-leading German cloud accounting and invoicing suite; a community MCP server exists. `Paid` `EN 16931` `API` `🇩🇪`
 - **[Accountable](https://www.accountable.de)** — English-first freelancer tax and invoicing app with native EN 16931 support; strong in Germany and Belgium. `Freemium` `EN 16931` `🇩🇪` `🇧🇪`
