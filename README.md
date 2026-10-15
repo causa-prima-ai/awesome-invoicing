@@ -51,6 +51,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
+| [E-Invoice Check](https://einvoicecheck.com/en/validator) | ✅ (validation only) | ⚠️ validates XRechnung XML, doesn't produce e-invoices | ❌ | ✅ | Web |
 
 ## AI-native & conversational
 
@@ -83,6 +84,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 
 Tools that produce structured, standards-compliant e-invoices — required for public-sector and, increasingly, B2B invoicing across the EU.
 
+- **[E-Invoice Check](https://einvoicecheck.com/en/validator)** — Free, anonymous/no-account technical validation for supported XRechnung XML (UBL/CII) with named KoSIT-aligned ruleset provenance and DE/EN findings. It supports E-Rechnung checking workflows; ZUGFeRD-PDF validation is not currently claimed. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/)** — Free, no-signup XRechnung and ZUGFeRD generator with Leitweg-ID support. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[PDF24 e-invoice generator](https://tools.pdf24.org/de/elektronische-rechnung-erstellen)** — Free no-signup ZUGFeRD and XRechnung generator from the well-known German PDF-tools brand. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[xrechnung-erstellen.com](https://xrechnung-erstellen.com/)** — Free XRechnung generator with assisted data extraction. `Free` `EN 16931` `🇩🇪`
