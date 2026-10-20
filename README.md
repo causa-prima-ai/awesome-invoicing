@@ -51,6 +51,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
+| [Hexvan](https://hexvan.com) | ❌ | ✅ (Peppol BIS) | ❌ | ❌ | Web · API |
 
 ## AI-native & conversational
 
@@ -104,6 +105,7 @@ Broader tools where invoicing is one feature among CRM, contracts, time-tracking
 - **[Bonsai](https://www.hellobonsai.com/)** — All-in-one freelancer operations: contracts, proposals, invoicing, and time tracking. `Paid`
 - **[HoneyBook](https://www.honeybook.com/)** — Client-flow CRM and invoicing for service entrepreneurs, with strong in-app AI. `Paid` `In-app AI`
 - **[Harvest](https://www.getharvest.com)** — Time tracking with built-in invoicing; long-standing, with a real free tier. `Free tier`
+- **[Hexvan](https://hexvan.com)** — Job management for tradespeople (plumbers, electricians, roofers): customers, quotes, invoices and payments, with invoices sent on Peppol. `Paid` `Peppol` `API`
 - **[Indy](https://weareindy.com/)** — All-in-one freelancer suite with a genuine free tier and AI assistance for contracts and proposals. `Free tier`
 - **[Square Invoices](https://squareup.com/us/en/invoices)** — Free invoicing tied to the Square payments ecosystem. `Free` `Payments`
 - **[Zoho Invoice](https://www.zoho.com/invoice/)** — See [AI-native & conversational](#ai-native--conversational); notable here for its forever-free plan. `Free forever` `API`
