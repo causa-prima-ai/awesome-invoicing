@@ -65,6 +65,7 @@ Tools you operate by asking, rather than by filling out a form — via MCP serve
 - **[Jenova AI](https://www.jenova.ai/en/resources/ai-invoice-generator)** — General AI agent platform with an invoice-generation capability; web-based, no external assistant integration. `Free` `Web`
 - **[HubSpot AI Invoice GPT](https://www.hubspot.com/invoice-template-generator/ai-invoice-gpt)** — HubSpot-branded invoice GPT on the OpenAI GPT Store. `Free` `GPT Store`
 - **[Poe — InvoiceGenerator](https://poe.com/InvoiceGenerator)** — Invoice-creation bot on Poe. `Free` `Poe`
+- **[Freelancer Starter Kit invoice bot](https://kleogeos.github.io/freelancer-tools/invoice-bot.html)** — Telegram bot that turns a plain-text message of line items into a formatted HTML invoice sent back as a file; paid per invoice via Telegram Stars (~$1.3), no signup or account. `Paid` `No signup`
 - **[Invoicer.ai](https://invoicer.ai/)** — Web SaaS pairing an AI invoice generator with an AI expense manager. `Paid` `Web`
 
 ## Free invoice generators
@@ -78,6 +79,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
 - **[Wise Invoice Generator](https://wise.com/us/invoice-generator/)** — Free no-signup invoice templates aimed at cross-border freelancers. `Free` `No signup`
 - **[SumUp Invoices](https://www.sumup.com/en-gb/invoices/)** — Mobile-first invoicing inside SumUp's payment ecosystem (formerly Debitoor). `Free` `Payments` `Mobile`
+- **[Freelancer Toolbox invoice generator](https://kleogeos.github.io/freelancer-tools/invoice.html)** — Browser-based invoice generator; fills and renders a printable invoice client-side with nothing uploaded to a server. `Free forever` `No signup`
 
 ## E-invoicing & compliance (EU / Germany)
 
