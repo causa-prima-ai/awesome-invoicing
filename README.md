@@ -72,6 +72,7 @@ Tools you operate by asking, rather than by filling out a form — via MCP serve
 No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/global and produce a formatted document rather than a compliant structured e-invoice.
 
 - **[invoice-generator.com](https://invoice-generator.com/)** — The canonical no-signup, no-watermark online invoice generator, from Invoiced. `Free` `No signup`
+- **[Billpad](https://billpad.cc/)** — Browser-based invoices, estimates, receipts and proforma documents with PDF export, 46 currencies and local JSON backups. `Free` `No signup`
 - **[Invoice Simple](https://www.invoicesimple.com/invoice-generator)** — Widely-used free generator and top-ranked mobile app with no-signup PDF download. `Freemium` `No signup` `Mobile`
 - **[Wave](https://www.waveapps.com/)** — Genuinely free invoicing plus bookkeeping, backed by H&R Block; one of the most complete free-forever options in the US. `Free forever`
 - **[PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice)** — Free invoicing inside a PayPal merchant account, with payment collection built in. `Free` `Payments`
