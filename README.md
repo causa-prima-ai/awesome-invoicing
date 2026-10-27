@@ -86,6 +86,7 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[kostenlose-erechnung.de](https://kostenlose-erechnung.de/xrechnung-generator/)** — Free, no-signup XRechnung and ZUGFeRD generator with Leitweg-ID support. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[PDF24 e-invoice generator](https://tools.pdf24.org/de/elektronische-rechnung-erstellen)** — Free no-signup ZUGFeRD and XRechnung generator from the well-known German PDF-tools brand. `Free` `EN 16931` `No signup` `🇩🇪`
 - **[xrechnung-erstellen.com](https://xrechnung-erstellen.com/)** — Free XRechnung generator with assisted data extraction. `Free` `EN 16931` `🇩🇪`
+- **[CheckXRechnung](https://checkxrechnung.com/)** — Free online validator for XRechnung and ZUGFeRD/Factur-X e-invoices based on the official KoSIT validator, with German error explanations, a German/English interface, and a public API (50 checks per IP per UTC day). `Free` `EN 16931` `No signup` `API` `🇩🇪`
 - **[easybill](https://www.easybill.de)** — Cloud invoicing for SMEs and marketplace sellers, with a meaningful free tier (50 documents/month) and full e-invoice support. `Free tier` `EN 16931` `API` `🇩🇪`
 - **[sevDesk](https://sevdesk.de)** — Popular German cloud invoicing and accounting suite; also runs a free public e-invoice generator. `Paid` `Free generator` `EN 16931` `🇩🇪`
 - **[Lexware Office](https://www.lexware.de/lexware-office)** — Market-leading German cloud accounting and invoicing suite; a community MCP server exists. `Paid` `EN 16931` `API` `🇩🇪`
