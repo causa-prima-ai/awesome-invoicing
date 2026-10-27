@@ -92,6 +92,7 @@ Tools that produce structured, standards-compliant e-invoices — required for p
 - **[Accountable](https://www.accountable.de)** — English-first freelancer tax and invoicing app with native EN 16931 support; strong in Germany and Belgium. `Freemium` `EN 16931` `🇩🇪` `🇧🇪`
 - **[Norman Finance](https://norman.finance)** — English-friendly accounting and invoicing for German freelancers, with a free tier. `Free tier` `EN 16931` `🇩🇪`
 - **[Papierkram](https://www.papierkram.de)** — German accounting with a project- and time-tracking-led invoicing workflow; free tier available. `Free tier` `EN 16931` `🇩🇪`
+- **[Coretool](https://coretool.de/en)** — Web app and REST API that creates ZUGFeRD and XRechnung (EN 16931) e-invoices, checks every file with the KoSIT validator and offers a free no-signup validator and Leitweg-ID checker; integrations for Zapier, Make and n8n. `Free tier` `EN 16931` `API` `🇩🇪`
 - **[B2Brouter](https://www.b2brouter.net/)** — Peppol Access Point with a free portal for SMEs and freelancers, plus a public REST API. `Free tier` `EN 16931` `Peppol` `API`
 - **[Storecove](https://www.storecove.com/)** — Developer-first Peppol Access Point with a RESTful JSON API and a free sandbox. `Paid` `Peppol` `API`
 - **[Qonto](https://qonto.com/de)** — EU SMB neobank bundling a compliant e-invoicing module into its business account. `Paid` `EN 16931` `Banking` `API`
