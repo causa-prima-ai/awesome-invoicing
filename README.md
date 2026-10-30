@@ -49,6 +49,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Wave](https://www.waveapps.com/) | ✅ | ❌ | ❌ | ❌ | Web · Mobile |
 | [PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice) | ✅ | ❌ | ❌ | ⚠️ PayPal account | Web · API · Mobile |
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
+| [InvoiceKoi Free Invoice Generator](https://www.invoicekoi.com/us/invoice-generator/) | ✅ | ❌ | ⚠️ browser prefill / WebMCP | ✅ | Web |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
 
@@ -73,6 +74,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 
 - **[invoice-generator.com](https://invoice-generator.com/)** — The canonical no-signup, no-watermark online invoice generator, from Invoiced. `Free` `No signup`
 - **[Invoice Simple](https://www.invoicesimple.com/invoice-generator)** — Widely-used free generator and top-ranked mobile app with no-signup PDF download. `Freemium` `No signup` `Mobile`
+- **[InvoiceKoi Free Invoice Generator](https://www.invoicekoi.com/us/invoice-generator/)**: Creates printable invoices in the browser without an account or watermark. `Free` `No signup`
 - **[Wave](https://www.waveapps.com/)** — Genuinely free invoicing plus bookkeeping, backed by H&R Block; one of the most complete free-forever options in the US. `Free forever`
 - **[PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice)** — Free invoicing inside a PayPal merchant account, with payment collection built in. `Free` `Payments`
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
