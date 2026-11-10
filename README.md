@@ -61,6 +61,7 @@ Tools you operate by asking, rather than by filling out a form — via MCP serve
 - **[Invoice Generator MCP (M1Vision)](https://smithery.ai/server/@M1Vision/invoice-mcp)** — MCP server that turns natural-language requests into PDF invoices; published on Smithery. `Free` `MCP`
 - **[invoice-mcp (markslorach)](https://github.com/markslorach/invoice-mcp)** — MCP server that generates PDF invoices from natural language with an editable template. `Free` `MCP`
 - **[Invoice My Clients MCP](https://www.invoicemyclients.com/features/mcp-server)** — MCP server bundled with a hosted SaaS; create invoices and log billable hours from an assistant. `Paid` `MCP`
+- **[Genaya](https://genaya.com/)** — Operations platform for service businesses with estimates, invoices and card payments; its remote MCP server and in-app AI create and send invoices from an assistant. `Paid` `MCP` `In-app AI` `API` `Payments` `Mobile`
 - **[Zoho Invoice](https://www.zoho.com/invoice/)** — Forever-free invoicing with in-app AI (Zia) for natural-language invoice creation and reminders; part of the wider Zoho suite. `Free forever` `In-app AI` `API`
 - **[Jenova AI](https://www.jenova.ai/en/resources/ai-invoice-generator)** — General AI agent platform with an invoice-generation capability; web-based, no external assistant integration. `Free` `Web`
 - **[HubSpot AI Invoice GPT](https://www.hubspot.com/invoice-template-generator/ai-invoice-gpt)** — HubSpot-branded invoice GPT on the OpenAI GPT Store. `Free` `GPT Store`
