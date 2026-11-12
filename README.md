@@ -105,6 +105,7 @@ Broader tools where invoicing is one feature among CRM, contracts, time-tracking
 - **[HoneyBook](https://www.honeybook.com/)** — Client-flow CRM and invoicing for service entrepreneurs, with strong in-app AI. `Paid` `In-app AI`
 - **[Harvest](https://www.getharvest.com)** — Time tracking with built-in invoicing; long-standing, with a real free tier. `Free tier`
 - **[Indy](https://weareindy.com/)** — All-in-one freelancer suite with a genuine free tier and AI assistance for contracts and proposals. `Free tier`
+- **[Pricely](https://pricely.me/)** — Quoting and invoicing for freelancers and service businesses: clients accept a quote online, then it converts to an invoice in one click. `Freemium`
 - **[Square Invoices](https://squareup.com/us/en/invoices)** — Free invoicing tied to the Square payments ecosystem. `Free` `Payments`
 - **[Zoho Invoice](https://www.zoho.com/invoice/)** — See [AI-native & conversational](#ai-native--conversational); notable here for its forever-free plan. `Free forever` `API`
 
