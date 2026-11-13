@@ -49,6 +49,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 | [Wave](https://www.waveapps.com/) | ✅ | ❌ | ❌ | ❌ | Web · Mobile |
 | [PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice) | ✅ | ❌ | ❌ | ⚠️ PayPal account | Web · API · Mobile |
 | [Invoice Simple](https://www.invoicesimple.com/invoice-generator) | ⚠️ freemium | ❌ | ❌ | ✅ | Web · Mobile |
+| [Invoice (My Digital Lavender)](https://mydigitallavender.com/Invoice) | ✅ | ❌ | ❌ | ✅ | Web |
 | [FreshBooks](https://www.freshbooks.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · API · Mobile |
 | [Bonsai](https://www.hellobonsai.com/) | ❌ | ❌ | ⚠️ light | ❌ | Web · Mobile |
 
@@ -78,6 +79,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
 - **[Wise Invoice Generator](https://wise.com/us/invoice-generator/)** — Free no-signup invoice templates aimed at cross-border freelancers. `Free` `No signup`
 - **[SumUp Invoices](https://www.sumup.com/en-gb/invoices/)** — Mobile-first invoicing inside SumUp's payment ecosystem (formerly Debitoor). `Free` `Payments` `Mobile`
+- **[Invoice (My Digital Lavender)](https://mydigitallavender.com/Invoice)** — Fill in an invoice, quote or receipt on a printable page, save clients on the device, then print or save a PDF; a formatted document, not a structured e-invoice. `Free` `No signup`
 
 ## E-invoicing & compliance (EU / Germany)
 
