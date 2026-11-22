@@ -37,6 +37,7 @@ Legend: ✅ yes · ⚠️ partial or conditional · ❌ no
 |------|:---:|:---:|:---:|:---:|---|
 | [Scribo](https://causa-prima-scribo.vercel.app/) | ✅ | ✅ | ✅ | ✅ | Web · API · MCP · Skill · CLI |
 | [einvoice-mcp](https://glama.ai/mcp/servers/makririch/einvoice-mcp) | ✅ | ✅ (XRechnung) | ✅ | ✅ | MCP |
+| [XSDHub](https://xsdhub.com/ai?utm_source=causa-prima-ai-awesome-invoicing&utm_medium=referral) | ⚠️ 25 MCP checks per IP per UTC day | ⚠️ validation only | ✅ | ✅ | MCP |
 | [Invoice My Clients MCP](https://www.invoicemyclients.com/features/mcp-server) | ❌ | ❌ | ✅ | ❌ | MCP · Web |
 | [Zoho Invoice](https://www.zoho.com/invoice/) | ✅ | ❌ | ⚠️ in-app (Zia) | ❌ | Web · API · Mobile |
 | [sevDesk](https://sevdesk.de) | ⚠️ generator only | ✅ | ❌ | ⚠️ generator only | Web · API |
@@ -58,6 +59,7 @@ Tools you operate by asking, rather than by filling out a form — via MCP serve
 
 - **[Scribo](https://causa-prima-scribo.vercel.app/)** — Free, conversational e-invoicing that generates EN 16931–compliant invoices (ZUGFeRD, XRechnung, Peppol BIS) from natural language. Runs as an MCP server, a Claude skill, a CLI, a public API, and a web app — no signup required to create your first invoice. `Free forever` `EN 16931` `MCP` `Skill` `CLI` `No signup`
 - **[einvoice-mcp](https://glama.ai/mcp/servers/makririch/einvoice-mcp)** — Open-source MCP server that creates and validates German XRechnung e-invoices from an assistant. `Free` `EN 16931` `MCP`
+- **[XSDHub](https://xsdhub.com/ai?utm_source=causa-prima-ai-awesome-invoicing&utm_medium=referral)** — Check invoice XML against XRechnung or EN 16931 rules from an MCP client, with 25 free checks per IP per UTC day. `Free tier` `MCP` `No signup`
 - **[Invoice Generator MCP (M1Vision)](https://smithery.ai/server/@M1Vision/invoice-mcp)** — MCP server that turns natural-language requests into PDF invoices; published on Smithery. `Free` `MCP`
 - **[invoice-mcp (markslorach)](https://github.com/markslorach/invoice-mcp)** — MCP server that generates PDF invoices from natural language with an editable template. `Free` `MCP`
 - **[Invoice My Clients MCP](https://www.invoicemyclients.com/features/mcp-server)** — MCP server bundled with a hosted SaaS; create invoices and log billable hours from an assistant. `Paid` `MCP`
