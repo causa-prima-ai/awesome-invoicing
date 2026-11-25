@@ -77,6 +77,7 @@ No-signup or free-tier tools for quickly producing a PDF invoice. Most are US/gl
 - **[PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice)** — Free invoicing inside a PayPal merchant account, with payment collection built in. `Free` `Payments`
 - **[Canva Invoices](https://www.canva.com/invoice/)** — Template-driven invoices inside Canva; strong on design, requires a Canva account. `Free` `Templates`
 - **[Wise Invoice Generator](https://wise.com/us/invoice-generator/)** — Free no-signup invoice templates aimed at cross-border freelancers. `Free` `No signup`
+- **[Kitovo](https://www.kitovo.app/)** — Free no-signup receipt and invoice generator that runs entirely in the browser (works offline, no watermark); templates include receipts, invoices and proforma invoices with PDF/PNG download. `Free forever` `No signup`
 - **[SumUp Invoices](https://www.sumup.com/en-gb/invoices/)** — Mobile-first invoicing inside SumUp's payment ecosystem (formerly Debitoor). `Free` `Payments` `Mobile`
 
 ## E-invoicing & compliance (EU / Germany)
